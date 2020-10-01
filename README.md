@@ -107,7 +107,7 @@ __Correlation Heat Map of All Features__
 
 ## Model Building and Training
 
-1. ### __Logistic Regression__
+1. ### __Linear Regression__
 
     __Training Data__
 
